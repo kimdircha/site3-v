@@ -1,0 +1,84 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.custom-bg-dark {
+    background-color: #0a121f;
+}
+
+.custom-brand {
+    width: 64px;
+}
+
+.main {
+    background-color: #08101e;
+    padding-top: 100px;
+}
+
+.about {
+    background-color: #020a18;
+}
+
+.card {
+    background-color: #18202c;
+}
+
+#carouselExampleIndicators2 .card {
+    width: 16rem;
+    margin: 0 auto;
+}
+
+.card img {
+    width: 65px;
+    margin: 0 auto;
+}
+
+.carousel-indicators {
+    bottom: -50px;
+}
+
+.footer {
+    background-color: #060e1c;
+}
+
+.footer-brand {
+    width: 65px;
+}
+
+.link-secondary {
+    text-decoration: none;
+}
+
+.link-light {
+    text-decoration: none;
+}
+
+.btn-primary {
+    background-color: #3a68b8;
+    border-color: #3a68b8;
+    border-radius: 0;
+}
+
+.custom-fw-6 {
+    font-weight: 600;
+}
+
+p {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.footer .col-md-2 h5 {
+    font-size: 16px;
+    font-weight: 500;
+}
